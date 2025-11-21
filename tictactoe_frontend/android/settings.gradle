@@ -1,0 +1,6 @@
+/*
+  Stub settings.gradle for CI. This is a no-op configuration to satisfy tools that expect
+  a Gradle project. For real builds, run `expo prebuild --platform android` to generate
+  a complete Android project.
+*/
+rootProject.name = "tictactoe_frontend_stub"
